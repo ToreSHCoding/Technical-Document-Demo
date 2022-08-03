@@ -1,0 +1,72 @@
+nav{
+  display: block;
+  height: 100%;
+  position: fixed;
+  width: 310px;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+nav header{
+  text-align: center;
+  padding: 10px;
+  padding-top: 20px;
+  font-size: 30px;
+}
+#navli {
+  list-style: none;
+  background-color: white;
+}
+.nav-link {
+  padding: 10px 0px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  min-width:320px;
+  line-break: auto;
+}
+.nav-link:hover {
+  padding: 10px 0px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  display: block;
+  min-width:320px;
+  background-color: white;
+}
+main{
+  margin-left:320px;
+}
+.main-section{
+  padding: 20px;
+  font-family: arial;
+}
+header{
+  font-size: 25px;
+  font-family: arial;
+}
+code{
+  background-color: #E8E8E8;
+  padding: 5px;
+  display: flex;
+  margin: 0px 15px;
+}
+@media (min-width:600px){
+  font-size:1.25rem;
+}
+javascript_and_java
+hello_world
+variables
+declaring_variables
+variable_scope
+global_variables
+constants
+data_types
+if_else_statement
+while_statement
+function_declarations
+reference
